@@ -13,4 +13,6 @@ All the projects I created while self-learning iOS-Development.
 
     Skills Practiced: Protocol, UITableView, navigationItem (rightBarButtonItem & leftBarButtonItem)
     
-4. 🍔 FindRestaurant: It is a model application to help users to find restaurants that satisfied their needs. 
+4. 🍔 FindRestaurant: It is a model application to help users to find restaurants that satisfied their needs. The default filters in the APP help users to find restaurants that meet with several criteria and users can also search for certain restaurant.
+
+    Skills Practiced: UICollectionView, UISearchController
