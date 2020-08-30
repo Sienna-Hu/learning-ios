@@ -1,5 +1,5 @@
-# learning-ios
-All the projects I created while self-learning iOS-Development.
+# Learning iOS Development
+All the projects I created while self-learning iOS-Development (learnt through watching Introduction to iOS-Development course of Appdev in Cornell).
 
 1. 📝 GroceryList: It is an application that allows users to create their own grocery list by entering items and the corresponding quantities. The list will display in ascending or descending order, depending on users' choices. 
 
